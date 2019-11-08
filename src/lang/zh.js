@@ -41,6 +41,7 @@ export default {
     dragTable: '拖拽 Table',
     inlineEditTable: 'Table 内编辑',
     complexTable: '综合 Table',
+    userInfo: '用户信息表',
     tab: 'Tab',
     form: '表单',
     createArticle: '创建文章',
@@ -175,5 +176,17 @@ export default {
     tagsView: '开启 Tags-View',
     fixedHeader: '固定 Header',
     sidebarLogo: '侧边栏 Logo'
+  },
+
+  // test
+  userInfo: {
+    username: '用户姓名',
+    search: '搜索',
+    add: '增加',
+    export: '导出',
+    phone: '手机号',
+    roleName: '角色名'
   }
+
 }
+

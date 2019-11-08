@@ -41,6 +41,7 @@ export default {
     dragTable: 'Drag Table',
     inlineEditTable: 'Inline Edit',
     complexTable: 'Complex Table',
+    userInfo: 'User Info',
     tab: 'Tab',
     form: 'Form',
     createArticle: 'Create Article',
